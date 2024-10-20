@@ -1,4 +1,4 @@
-package function;
+package bit_manipulation.function;
 import java.util.Scanner;
 public class some_od_number {
     public static void sum_of_number( int a){

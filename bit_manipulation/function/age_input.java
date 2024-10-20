@@ -1,4 +1,4 @@
-package function;
+package bit_manipulation.function;
 import java.util.Scanner;
 public class age_input {
     public static void vote_eligiblety( int age){

@@ -1,3 +1,4 @@
+package bit_manipulation.function;
 import java.util.Scanner;
 
 public class cout {

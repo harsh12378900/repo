@@ -1,4 +1,4 @@
-package function;
+package bit_manipulation.function;
 import java.util.Scanner;
 public class factorial {
     public static void fact( long a){

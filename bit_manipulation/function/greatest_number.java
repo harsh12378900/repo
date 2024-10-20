@@ -1,4 +1,4 @@
-package function;
+package bit_manipulation.function;
 import java.util.Scanner;
 public class greatest_number {
     public static int greatest( int a,int b){

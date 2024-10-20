@@ -1,4 +1,4 @@
-package function;
+package bit_manipulation.function;
 import java.util.Scanner;
 
 public class average_three_num {
