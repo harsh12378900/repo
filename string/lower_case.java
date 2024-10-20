@@ -1,0 +1,14 @@
+package string;
+
+import java.util.Scanner;
+
+public class lower_case {
+    public static void main(String[] args) {
+       @SuppressWarnings("resource")
+    Scanner s=new Scanner(System.in);
+       System.out.println("enter the String");
+       String a;
+       a=s.nextLine();
+       System.out.println(a.toLowerCase() );
+}
+}
